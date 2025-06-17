@@ -31,3 +31,10 @@ by ducnguyenvn =================================================================
 - BMI calculation and classification
 - Personal information analysis (age, gender, weight, height)
 - Basic calculator: Add, Subtract, Multiply, Divide
+
+⚠️ Disclaimer (English & Vietnamese)
+EN:
+This is a personal tool created for educational and non-commercial purposes. The author assumes no legal responsibility for any consequences arising from the use of this software. Use it at your own risk.
+
+VN:
+Đây là một công cụ cá nhân được tạo ra với mục đích giáo dục và phi thương mại. Tác giả không chịu bất kỳ trách nhiệm pháp lý nào đối với mọi hậu quả phát sinh từ việc sử dụng phần mềm này. Việc sử dụng là hoàn toàn tự nguyện và chịu rủi ro cá nhân.
