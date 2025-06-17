@@ -1,3 +1,17 @@
+from http.server import BaseHTTPRequestHandler
+ 
+class handler(BaseHTTPRequestHandler):
+ 
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header('Content-type','text/plain')
+        self.end_headers()
+        self.wfile.write('Hello, world!'.encode('utf-8'))
+        return
+
+
+#ddđ
+
 eng = ["English","eng","Eng","ENG","en","En","EN"]
 vie = ["Vietnamese","vn","vi","VN","Vn","Vi","VI","vie","Vie","VIE"]
 exitx = "x"
