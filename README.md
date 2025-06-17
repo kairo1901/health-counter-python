@@ -20,7 +20,7 @@
 - Phân tích thông tin cá nhân (tuổi, giới tính, cân nặng, chiều cao)
 - Máy tính cơ bản: Cộng, Trừ, Nhân, Chia
 
-by ducnguyenvn =======================================================================================
+by ducnguyenvn / kairo  =======================================================================================
 
 ## en English Version
 
@@ -32,7 +32,7 @@ by ducnguyenvn =================================================================
 - Personal information analysis (age, gender, weight, height)
 - Basic calculator: Add, Subtract, Multiply, Divide
 
-⚠️ Disclaimer (English & Vietnamese)
+### ⚠️ Disclaimer (English & Vietnamese) 
 EN:
 This is a personal tool created for educational and non-commercial purposes. The author assumes no legal responsibility for any consequences arising from the use of this software. Use it at your own risk.
 
